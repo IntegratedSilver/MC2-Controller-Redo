@@ -1,0 +1,33 @@
+C:\Users\silve\Downloads\old c#\MC2 Controller Redo\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\silve\Downloads\old c#\MC2 Controller Redo\bin\Debug\net8.0\appsettings.json
+C:\Users\silve\Downloads\old c#\MC2 Controller Redo\bin\Debug\net8.0\MC2 Controller Redo.exe
+C:\Users\silve\Downloads\old c#\MC2 Controller Redo\bin\Debug\net8.0\MC2 Controller Redo.deps.json
+C:\Users\silve\Downloads\old c#\MC2 Controller Redo\bin\Debug\net8.0\MC2 Controller Redo.runtimeconfig.json
+C:\Users\silve\Downloads\old c#\MC2 Controller Redo\bin\Debug\net8.0\MC2 Controller Redo.dll
+C:\Users\silve\Downloads\old c#\MC2 Controller Redo\bin\Debug\net8.0\MC2 Controller Redo.pdb
+C:\Users\silve\Downloads\old c#\MC2 Controller Redo\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\silve\Downloads\old c#\MC2 Controller Redo\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\silve\Downloads\old c#\MC2 Controller Redo\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\silve\Downloads\old c#\MC2 Controller Redo\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\silve\Downloads\old c#\MC2 Controller Redo\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\silve\Downloads\old c#\MC2 Controller Redo\obj\Debug\net8.0\MC2 Controller Redo.csproj.AssemblyReference.cache
+C:\Users\silve\Downloads\old c#\MC2 Controller Redo\obj\Debug\net8.0\MC2 Controller Redo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\silve\Downloads\old c#\MC2 Controller Redo\obj\Debug\net8.0\MC2 Controller Redo.AssemblyInfoInputs.cache
+C:\Users\silve\Downloads\old c#\MC2 Controller Redo\obj\Debug\net8.0\MC2 Controller Redo.AssemblyInfo.cs
+C:\Users\silve\Downloads\old c#\MC2 Controller Redo\obj\Debug\net8.0\MC2 Controller Redo.csproj.CoreCompileInputs.cache
+C:\Users\silve\Downloads\old c#\MC2 Controller Redo\obj\Debug\net8.0\MC2 Controller Redo.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\silve\Downloads\old c#\MC2 Controller Redo\obj\Debug\net8.0\MC2 Controller Redo.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\silve\Downloads\old c#\MC2 Controller Redo\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\silve\Downloads\old c#\MC2 Controller Redo\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\silve\Downloads\old c#\MC2 Controller Redo\obj\Debug\net8.0\staticwebassets\msbuild.MC2 Controller Redo.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\silve\Downloads\old c#\MC2 Controller Redo\obj\Debug\net8.0\staticwebassets\msbuild.build.MC2 Controller Redo.props
+C:\Users\silve\Downloads\old c#\MC2 Controller Redo\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.MC2 Controller Redo.props
+C:\Users\silve\Downloads\old c#\MC2 Controller Redo\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.MC2 Controller Redo.props
+C:\Users\silve\Downloads\old c#\MC2 Controller Redo\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\silve\Downloads\old c#\MC2 Controller Redo\obj\Debug\net8.0\scopedcss\bundle\MC2 Controller Redo.styles.css
+C:\Users\silve\Downloads\old c#\MC2 Controller Redo\obj\Debug\net8.0\MC2 Cont.C7D65A2D.Up2Date
+C:\Users\silve\Downloads\old c#\MC2 Controller Redo\obj\Debug\net8.0\MC2 Controller Redo.dll
+C:\Users\silve\Downloads\old c#\MC2 Controller Redo\obj\Debug\net8.0\refint\MC2 Controller Redo.dll
+C:\Users\silve\Downloads\old c#\MC2 Controller Redo\obj\Debug\net8.0\MC2 Controller Redo.pdb
+C:\Users\silve\Downloads\old c#\MC2 Controller Redo\obj\Debug\net8.0\MC2 Controller Redo.genruntimeconfig.cache
+C:\Users\silve\Downloads\old c#\MC2 Controller Redo\obj\Debug\net8.0\ref\MC2 Controller Redo.dll
